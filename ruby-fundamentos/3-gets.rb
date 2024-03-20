@@ -4,11 +4,11 @@ puts name
 puts name.class
 
 puts 'Informe o ano do filme'
-yearLaunch  = gets.chomp.to_i
+yearLaunch  = gets.chomp.to_i # to_i para transformar em inteiro
 puts yearLaunch
 puts yearLaunch.class
 
 puts 'Informe o preço do filme'
-price = gets.chomp.to_f
+price = gets.chomp.to_f # to_f para transformar em float
 puts price
 puts price.class
