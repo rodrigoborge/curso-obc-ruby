@@ -34,6 +34,7 @@ igual = num1 == num2
 diferente = num1 != num2
 maiorIgual = num1 >= num2
 menorIgual = num1 <= num2
+puts "O resultado das comparações numéricas são: Maior -> #{maior}, Menor -> #{menor}, Igual -> #{igual}, Diferente -> #{diferente}, Maior ou Igual -> #{maiorIgual}, Menor ou Igual -> #{menorIgual}"
 
 # Operadores Lógicos
 puts ((2 > 4) and (3 > 1))
