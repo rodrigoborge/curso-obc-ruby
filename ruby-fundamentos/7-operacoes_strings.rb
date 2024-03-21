@@ -2,7 +2,7 @@
 name = "De Volta Para o Futuro"
 description = "O filme trata de uma viagem no tempo"
 description2 = <<Text
-  O fime #{name} é um cássico de 1985 que trata sobre uma viagem no tempo.
+  "O fime #{name} é um cássico de 1985 que trata sobre uma viagem no tempo."
 Text
 
 # Indexação
